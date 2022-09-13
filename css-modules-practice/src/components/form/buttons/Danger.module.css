@@ -1,0 +1,4 @@
+.danger {
+  background-color: var(--colour-secondary);
+  height: 40px;
+}

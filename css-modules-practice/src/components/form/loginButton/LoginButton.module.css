@@ -1,0 +1,10 @@
+.button {
+  height: 80px;
+  border: none;
+  background: white;
+  width: 80px;
+  border-radius: 100%;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  text-transform: uppercase;
+  animation: rotate 3s infinite;
+}

@@ -1,0 +1,9 @@
+.button {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  height: 70px;
+  border-radius: 10px;
+  border: none;
+  background-color: var(--colour-primary);
+  color: white;
+  margin-bottom: 1rem;
+}

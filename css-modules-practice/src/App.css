@@ -1,0 +1,20 @@
+:root {
+  --colour-primary: #97c396;
+  --colour-secondary: #d17394;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+.col-login {
+  text-align: center;
+}

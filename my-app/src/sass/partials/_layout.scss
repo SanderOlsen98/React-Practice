@@ -1,0 +1,23 @@
+body {
+  font-family: $font-primary;
+  background-color: $colour-background;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  background: $colour-ui-primary;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 7px $colour-ui-shadow;
+  transition: all 0.4s;
+}
+
+li:hover {
+  box-shadow: none;
+  padding: 2rem;
+}
