@@ -1,5 +1,5 @@
 const Theme = {
-  primaryColour: "#97c396",
+  primaryColour: "#97c395",
   borderColour: "#cccccc",
   dangerColour: "#d17394",
 };
