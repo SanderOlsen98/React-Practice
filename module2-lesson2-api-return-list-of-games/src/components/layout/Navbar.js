@@ -9,7 +9,7 @@ function GameNavbar() {
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text>
-            Signed in as: <a href="#login">Mark Otto</a>
+            Signed in as: <a href="#login">Sander Lindberg Olsen</a>
           </Navbar.Text>
         </Navbar.Collapse>
       </Container>

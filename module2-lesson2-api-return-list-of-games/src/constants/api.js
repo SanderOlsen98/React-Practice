@@ -1,1 +1,1 @@
-export const API_URL = "https://noroff.herokuapp.com/v1/old-games";
+export const API = "https://noroff.herokuapp.com/v1/old-games";
